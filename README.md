@@ -1,4 +1,4 @@
-![Screenshot 2024-07-02 142258](https://github.com/i0am0arunava/wd401-l-9/assets/141677292/2f8f2e4e-37d9-48d6-aa2b-1ddf7e986222)# WD401 Level-9 Submission Documentation
+
 
 ## Error Tracking System:
 
